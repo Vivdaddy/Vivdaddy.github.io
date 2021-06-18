@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Vivek Anand"
 title_separator          : "-"
 name                     : &name "Vivek Anand"
-description              : &description "M.S. student, College of Computing, georgia Institute of Technology"
+description              : &description "M.S. student, College of Computing, Georgia Institute of Technology"
 url                      : https://vivdaddy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Vivdaddy/Vivdaddy.github.io"
@@ -96,7 +96,7 @@ author:
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/vivek-anand-670186145/"
   orcid            : 
   pinterest        :
   soundcloud       :
