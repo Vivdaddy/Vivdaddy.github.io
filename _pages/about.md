@@ -10,7 +10,7 @@ redirect_from:
 
 
 <p align="center">
-  <img src="https://Vivdaddy.github.io/files/canyons.jpeg?raw=true" alt="Photo of me" style="width: 300px;"/> 
+  <img src="https://Vivdaddy.github.io/files/canyons.jpeg?raw=true" alt="Photo of me" style="width: 350px;"/> 
 </p>
 
 
@@ -18,7 +18,7 @@ I am a **first year Masters Student** in [Computer Science](https://www.cc.gatec
 
 I received my **Bachelors degrees** in [Computer Science](https://www.eecs.psu.edu/) (Honors) and [Biology](https://science.psu.edu/bio) at [The Pennsylvania State University](https://www.psu.edu/) where my undergraduate research advisor was Prof. [Daniel Kifer](http://www.cse.psu.edu/~duk17/).
 
-My current research interests are in the general areas of data science and machine learning particularly in deep learning, variational inference and uncertainty quantification and their applications to recommender systems.
+My current research interests are in the general areas of data science and machine learning with a focus on deep learning, variational inference and uncertainty quantification and their applications to recommender systems.
 
 ## Education
 * **M.S. Computer Science**, Georgia Institute of Technology            - (2021-    )
