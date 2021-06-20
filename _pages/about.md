@@ -22,5 +22,5 @@ My current research interests are in the general areas of data science and machi
 
 ## Education
 * **M.S. Computer Science**, Georgia Institute of Technology            - (2021-    )
-* **B.S. (Honors) Computer Science**, The Pennsylvania State University - (2017-2021)\
-* ** B.S. Biology**, The Pennsylvania State University                  - (2017-2021)
+* **B.S. (Honors) Computer Science**, The Pennsylvania State University - (2017-2021)
+* **B.S. Biology**, The Pennsylvania State University                   - (2017-2021)
