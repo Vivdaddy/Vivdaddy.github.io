@@ -10,7 +10,7 @@ redirect_from:
 
 
 <p align="center">
-  <img src="https://Vivdaddy.github.io/files/canyons.jpeg?raw=true" alt="Photo of me" style="width: 450px;"/> 
+  <img src="https://Vivdaddy.github.io/files/canyons.jpeg?raw=true" alt="Photo of me" style="width: 300px;"/> 
 </p>
 
 
