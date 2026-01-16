@@ -10,7 +10,7 @@ last_name: Anand
 superuser: true
 
 # Role/position/tagline
-role: PhD Student
+role: Neurotechnology Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -70,16 +70,12 @@ Hi there!
 
 I'm a PhD Student in Machine Learning at [Georgia Tech](https://www.gatech.edu/) where I am advised by Prof. [Christopher Rozell](http://siplab.gatech.edu/rozell.html) and Dr. [Sankaraleengam Alagapan](https://www.sankaralagapan.com/).
 
-My research interests are at the intersection of Machine Learning, Neuroscience and Economics. I am interested in **understanding how people make decisions** and how **neurotechnology can be used to improve decision making**. Currently I am working on 1) learning subjective percepts like taste, smell, aesthetics and perceived effort using active learning and representation learning and 2) identifying the neural correlates and dynamics of effort based decision making via stereoelectroencephalography and other modalities like electromyography, pupillometry, eyetracking and heart rate.
+My mission is to help people become the best versions of themselves and help them thrive. I believe that democratising neurotechnology can help us achieve that.
 
-I finished my Masters in Computer Science, at [Georgia Tech](https://www.gatech.edu/), specializing in Machine Learning, where I was advised by Prof. [Aditya Prakash](https://faculty.cc.gatech.edu/~badityap/). I incorporated group information in modelling Healthcare Associated Infections.
+My research interests are at the intersection of Neuroscience, Machine Learning and Economics. I am particularly interested in understanding how people make cost benefit decisions in daily life. My PhD thesis research is on **objectively quantifying motivation in humans** to better treat psychiatric disorders.
 
-Previously, I was an Applied AI Intern at [Netomi](https://www.netomi.com/), an AI for customer service startup, where I was mentored by Dr. [Partho Nath](https://www.linkedin.com/in/partho-nath/). I developed semi-supervised clustering methods for topic discovery in large customer service ticket datasets.
+Currently I am working on 1) identifying the neural and body correlates of naturalistic effort based decision making (and motivation!) via highly instrumented tasks by analyzing SEEG, EMG, EKG and pupillometry 2) developing quantitative and purely data driven machine learning methods to learn representations of subjective percepts like effort perception.
 
-In the Summer of 2020, I was a SURF Intern at [Caltech](https://www.caltech.edu/) where I was advised by Prof. [Adam Wierman](https://adamwierman.com/). We developed energy-aware algorithms to schedule precedence constrained tasks on multiple servers.
+Other than research, I love to hike, ski, make pots (quite badly) and read. 
 
-I finished my undergraduate studies, double majoring in Computer Science and Biology with a minor in Statistics, at [Penn State](https://www.psu.edu/) where I completed my Honors thesis with Prof. [Daniel Kifer](https://www.cse.psu.edu/~duk17/). For my thesis, I worked on improving the scalability of certifiably adversarial robust deep neural networks.
-
-Other than research, I'm an enthusiastic amateur cricket player 🏏 and an avid reader 📚. 
-
-If you would like to get in contact with me, feel free to reach out via email.
+If you would like to get in contact with me, please reach out via email.
